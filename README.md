@@ -4,7 +4,7 @@
 - I’m currently learning Back-End, more specifically with Python and Framework Django.
 
 - My Skills:
-  - Domain of HTML, CSS, Python, JavaScript, TypeScript, Vue.js, Node.js and Front-end layouts.
+  - Domain of HTML, CSS, Python, JavaScript, TypeScript, Vue.js and Front-end layouts.
   - Microservices creation.
   - Workflow automation.
   - Experience with SQL and databases.
@@ -23,7 +23,7 @@
   <img align="center" alt="Victor-Django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-NODE" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
+  <img align="center" alt="Victor-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Victor-GIT" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">
 </div>
 
