@@ -5,7 +5,7 @@
 
 - My Skills:
   - Domain of HTML, CSS, Python, JavaScript, TypeScript, Vue.js, Node.js and Front-end layouts.
-  - Microservices creacion.
+  - Microservices creation.
   - Workflow automation.
   - Experience with SQL and databases.
   - English - Advanced Level.
