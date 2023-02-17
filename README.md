@@ -8,7 +8,7 @@
   - Microservices creation.
   - Workflow automation.
   - Experience with SQL and databases.
-  - English - Advanced Level.
+  - English - Advanced.
    
 <div align="center">
   <a href="https://github.com/victordg21">
