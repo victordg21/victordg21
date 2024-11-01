@@ -4,7 +4,7 @@
 - I’m currently learning Back-End, more specifically with Python and Framework Django.
 
 - My Skills:
-  - HTML, CSS, Python, JavaScript, TypeScript, Vue.js, React and Front-end layouts.
+  - HTML, CSS, Python, JavaScript, TypeScript, Vue.js, React, Webflow and Front-end layouts.
   - Microservices creation.
   - Workflow automation.
   - Experience with SQL and databases.
